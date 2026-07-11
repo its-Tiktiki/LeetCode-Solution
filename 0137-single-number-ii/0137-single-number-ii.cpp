@@ -2,19 +2,22 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
 
-        unordered_map<int, int> f;
+        int ans = 0;
 
-        for(int n : nums){
-            f[n]++;
-        }
+        for(int i = 0; i < 32; i++){
 
-        for(auto& n : f){
-            if(n.second == 1){
-                return n.first;
+            int count = 0;
+            for(int n : nums){
+                if(n & (1 << i)){
+                    count++;
+                }
+            }
+
+            if(count % 3 != 0){
+                ans |= (1 << i);
             }
         }
-
-        return -1;
         
+        return ans;
     }
 };
