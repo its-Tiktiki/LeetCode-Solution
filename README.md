@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
