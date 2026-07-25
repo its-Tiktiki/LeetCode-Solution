@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -38,8 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/its-Tiktiki/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
